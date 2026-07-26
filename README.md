@@ -1,1 +1,3 @@
-# Ello!
+# hi...
+The names Wyatt my freinds call me weet. I am primarily a python dev but i can do webdev
+i hate vibe coding
